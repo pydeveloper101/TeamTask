@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color:#D6EAF8;
+}
+.navbar{
+  background-color: #2874A6;
+  font-size: 34;
+  color: white;
+}
+.CompleteGoalList{
+  color:rgb(20, 143, 119);
+  margin: 5%;
+}
